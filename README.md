@@ -1,1 +1,13 @@
-# Research-Track-II-1.3
+# Statistical Analysis
+This repo shows a statistical analysis done between [this repo](https://github.com/youssefattia98/Research-Track-I-1) and [the professor repo](https://github.com/CarmineD8/python_simulator/tree/rt2).
+The robot simulation have a lot of aspects to be noticed but here the following aspects will be compared:  
+
+ 1. Lap speed.
+ 2. Times near to gold.
+ 3. Laps completed and not completed.
+ 
+ First of all, each code was run for 30 complete laps with screen record on to be able to connect data. All the data collected can be found in the excel file in this repo. After the data was collected the following testes was done. Please note that all test runs where in the same conditions and same PC to make sure that they are as near as possible as the simulation is CPU speed dependent, that means running the same code on different PC will output a different lap speed and so on.   
+
+## 1.Lap speed:
+For these data a parametric test must be held and T-test was chosen for its simplicity.
+Firstly, lets list the data obtained:
