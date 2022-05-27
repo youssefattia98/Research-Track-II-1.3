@@ -1,5 +1,5 @@
 # Statistical Analysis
-This repo shows a statistical analysis done between [A studnet algorithm](https://github.com/youssefattia98/Research-Track-I-1) and [the professor algorithm](https://github.com/CarmineD8/python_simulator/tree/rt2).
+This repo shows a statistical analysis done between [a studnet algorithm](https://github.com/youssefattia98/Research-Track-I-1) and [the professor algorithm](https://github.com/CarmineD8/python_simulator/tree/rt2).
 The robot simulation have a lot of aspects to be noticed but here the following aspects will be compared:  
 
  1. Lap speed.
