@@ -36,3 +36,4 @@ First of all, it was noted that the professor’s algorithm had to be re-runed f
 The data collected is as follows:  
 ![Untitled](https://user-images.githubusercontent.com/69837845/170803240-a742f729-6d4f-481c-9b6d-68fbd1de41b4.png)  
 A **Chi test** is choosen for this type of data as it is **non-parametric test** is needed
+The null hypothesis is: both 
