@@ -21,5 +21,11 @@ next step is to calculate The pooled, estimated variance of the sampling distrib
 Calculating the estimated SE of the sampling distribution of the difference equal to 6.968670998 
 and the the t is calculated to be found as: 11.96306537
 Comparing the t to the T-table:  
-![Untitled](https://user-images.githubusercontent.com/69837845/170802417-89172849-dcc3-4cad-933a-9a3c8f9feaeb.png)
-Therefore, the null hypothesis is neglected and it is said that the professor code is faster.
+![Untitled](https://user-images.githubusercontent.com/69837845/170802417-89172849-dcc3-4cad-933a-9a3c8f9feaeb.png)  
+**Therefore, the null hypothesis is neglected and it is said that the professor code is faster.**
+
+## 2.Times near to gold:  
+For these data a **parametric test** must be held and T-test was chosen for its simplicity as the prvious example, the calculations can be found in the excel file. But lets set the hypothesis as follwing:  
+![Untitled](https://user-images.githubusercontent.com/69837845/170802269-fa019cf5-b7e8-4325-bb72-6ee22fe5a9d5.png)  
+Furtheremore, the t calculated is found to be: 2.177881632
+**Therefore, the null hypothesis is not neglectable and it is said that both algorithms perform similarly.**
