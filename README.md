@@ -37,5 +37,12 @@ The data collected is as follows:
 ![Untitled](https://user-images.githubusercontent.com/69837845/170803240-a742f729-6d4f-481c-9b6d-68fbd1de41b4.png)  
 A **Chi test** is choosen for this type of data as it is **non-parametric test** is needed  
 lets set the hypothesis as follows:  
-![170802269-fa019cf5-b7e8-4325-bb72-6ee22fe5a9d5](https://user-images.githubusercontent.com/69837845/170803465-4aaccf52-09f9-4b24-b3f8-1c6b9264592f.png)
+![170802269-fa019cf5-b7e8-4325-bb72-6ee22fe5a9d5](https://user-images.githubusercontent.com/69837845/170803465-4aaccf52-09f9-4b24-b3f8-1c6b9264592f.png)  
+Now lets calculate x squared:  
+![Untitled](https://user-images.githubusercontent.com/69837845/170803506-b26f106a-8d21-4d54-844c-dc4f8f37fd18.png)  
+looking at the table:  
+![Untitled](https://user-images.githubusercontent.com/69837845/170803635-f504bd39-ae0e-4108-9a48-59196b1f8871.png)  
+**Therefore, the null hypothesis is neglectable and it is said that student algorithm performs better.**
 
+#Conclusion:
+In conclusion and from the previous test done, it is said the the student algorithm is better as it can achive the main goal then the professor algorithm, even if the professor algorithm can complete its laps faster yet this was not the main goal of the robot. 
