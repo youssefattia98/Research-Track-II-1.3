@@ -12,3 +12,5 @@ The robot simulation have a lot of aspects to be noticed but here the following 
 For these data a **parametric test** must be held and T-test was chosen for its simplicity.
 Firstly, lets list the data obtained:
 ![Untitled](https://user-images.githubusercontent.com/69837845/170801087-2ecba3ae-b8b5-45d1-a470-7b66da0e86bc.png)
+next step is to calculate The pooled, estimated variance of the sampling distribution of the difference as following:
+![Untitled](https://user-images.githubusercontent.com/69837845/170801643-cb13e7fe-5837-4a5f-bd7c-53db518b4a8c.png)
