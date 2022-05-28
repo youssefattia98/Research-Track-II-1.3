@@ -11,7 +11,7 @@ The robot simulation have a lot of aspects to be noticed but here the following 
 ## 1.Lap speed:
 For these data a **parametric test** must be held and T-test was chosen for its simplicity.  
 
-Firstly, lets set the hypothesis:
+Firstly, lets set the hypothesis:  
 ![Untitled](https://user-images.githubusercontent.com/69837845/170802269-fa019cf5-b7e8-4325-bb72-6ee22fe5a9d5.png)  
 
 Secondly, lets list the data obtained:
@@ -20,3 +20,6 @@ next step is to calculate The pooled, estimated variance of the sampling distrib
 ![Untitled](https://user-images.githubusercontent.com/69837845/170801643-cb13e7fe-5837-4a5f-bd7c-53db518b4a8c.png)  
 Calculating the estimated SE of the sampling distribution of the difference equal to 6.968670998 
 and the the t is calculated to be found as: 11.96306537
+Comparing the t to the T-table:  
+![Untitled](https://user-images.githubusercontent.com/69837845/170802417-89172849-dcc3-4cad-933a-9a3c8f9feaeb.png)
+Therefore, the null hypothesis is neglected and it is said that the professor code is faster.
