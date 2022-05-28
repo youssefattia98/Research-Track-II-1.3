@@ -27,5 +27,7 @@ Comparing the t to the T-table:
 ## 2.Times near to gold:  
 For these data a **parametric test** must be held and T-test was chosen for its simplicity as the prvious example, the calculations can be found in the excel file. But lets set the hypothesis as follwing:  
 ![Untitled](https://user-images.githubusercontent.com/69837845/170802269-fa019cf5-b7e8-4325-bb72-6ee22fe5a9d5.png)  
-Furtheremore, the t calculated is found to be: 2.177881632
-**Therefore, the null hypothesis is not neglectable and it is said that both algorithms perform similarly.**
+Furtheremore, the t calculated is found to be: 2.177881632  
+**Therefore, the null hypothesis is not neglectable and it is said that both algorithms perform similarly.**  
+
+## 3.Laps completed and not completed:  
