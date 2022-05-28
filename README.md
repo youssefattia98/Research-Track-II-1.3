@@ -15,3 +15,4 @@ Firstly, lets list the data obtained:
 next step is to calculate The pooled, estimated variance of the sampling distribution of the difference as following:
 ![Untitled](https://user-images.githubusercontent.com/69837845/170801643-cb13e7fe-5837-4a5f-bd7c-53db518b4a8c.png)  
 Calculating the estimated SE of the sampling distribution of the difference equal to 6.968670998 
+and the the t is calculated to be found as: 11.96306537
