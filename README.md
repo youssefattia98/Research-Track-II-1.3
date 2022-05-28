@@ -44,5 +44,5 @@ looking at the table:
 ![Untitled](https://user-images.githubusercontent.com/69837845/170803635-f504bd39-ae0e-4108-9a48-59196b1f8871.png)  
 **Therefore, the null hypothesis is neglectable and it is said that student algorithm performs better.**
 
-##Conclusion:
+## Conclusion:
 In conclusion and from the previous test done, it is said the the student algorithm is better as it can achive the main goal then the professor algorithm, even if the professor algorithm can complete its laps faster yet this was not the main goal of the robot. 
