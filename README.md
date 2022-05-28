@@ -31,3 +31,6 @@ Furtheremore, the t calculated is found to be: 2.177881632
 **Therefore, the null hypothesis is not neglectable and it is said that both algorithms perform similarly.**  
 
 ## 3.Laps completed and not completed:  
+This test is really crucial as it is what actually defines which algorithm is better and which is not, as from this test it can be said the robot completed it mission or not.  
+First of all, it was noted that the professor’s algorithm had to be re-runed for 4 times during the 30 laps trial as it either entered in an infit loop or went in the wrong direction. on the other hand the stundet's algortithm was able to complete the 30 laps non-stop without hitting any golden token or changing the direction.  
+
