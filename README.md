@@ -35,5 +35,7 @@ This test is really crucial as it is what actually defines which algorithm is be
 First of all, it was noted that the professor’s algorithm had to be re-runed for 4 times during the 30 laps trial as it either entered in an infit loop or went in the wrong direction. on the other hand the stundet's algortithm was able to complete the 30 laps non-stop without hitting any golden token or changing the direction.  
 The data collected is as follows:  
 ![Untitled](https://user-images.githubusercontent.com/69837845/170803240-a742f729-6d4f-481c-9b6d-68fbd1de41b4.png)  
-A **Chi test** is choosen for this type of data as it is **non-parametric test** is needed
-The null hypothesis is: both 
+A **Chi test** is choosen for this type of data as it is **non-parametric test** is needed  
+lets set the hypothesis as follows:  
+![170802269-fa019cf5-b7e8-4325-bb72-6ee22fe5a9d5](https://user-images.githubusercontent.com/69837845/170803465-4aaccf52-09f9-4b24-b3f8-1c6b9264592f.png)
+
