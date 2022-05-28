@@ -33,6 +33,13 @@ Furtheremore, the t calculated is found to be: 2.177881632
 ## 3.Laps completed and not completed:  
 This test is really crucial as it is what actually defines which algorithm is better and which is not, as from this test it can be said the robot completed it mission or not.  
 First of all, it was noted that the professor’s algorithm had to be re-runed for 4 times during the 30 laps trial as it either entered in an infit loop or went in the wrong direction. on the other hand the stundet's algortithm was able to complete the 30 laps non-stop without hitting any golden token or changing the direction.  
+
+The video bellow shows the professor algorithm after hitting a golden token and going in the wrong direction:  
+
+
+https://user-images.githubusercontent.com/69837845/170803967-377d50b6-385d-4a4e-8835-cc79afaa36de.mp4  
+
+
 The data collected is as follows:  
 ![Untitled](https://user-images.githubusercontent.com/69837845/170803240-a742f729-6d4f-481c-9b6d-68fbd1de41b4.png)  
 A **Chi test** is choosen for this type of data as it is **non-parametric test** is needed  
